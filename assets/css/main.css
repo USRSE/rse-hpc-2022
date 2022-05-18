@@ -280,7 +280,7 @@ img {
 
 footer {
   padding: 30px 0;
-  border-top: 15px #cf7c68 solid;
+  border-top: 1px #eee solid;
   margin-top: 50px;
   font-size: 14px;
   background-color: {{ site.footer-col }};
