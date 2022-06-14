@@ -20,8 +20,7 @@ We particularly encourage submissions from first-time conference presenters, and
 Papers should be submitted using the link below.  The deadline for submissions is Friday, August 5, 2022, at 11:59 PM AoE (UTC-12).
 
 Submission website:
-<https://submissions.supercomputing.org/?page=Submit&id=SC22WorkshopRSEHPC2022Su
-bmission&site=sc22>
+<https://submissions.supercomputing.org/?page=Submit&id=SC22WorkshopRSEHPC2022Submission&site=sc22>
 
 ### Timeline
 
