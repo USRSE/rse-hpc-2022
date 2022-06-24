@@ -23,6 +23,7 @@ permalink: /committee/
 - Robert Haines, University of Manchester, UK
 - Tom Honeyman, Australia Research Data Commons, Australia
 - Catherine Jones, Science and Technology Facilities Council, UK
+- Nick Jones, New Zealand eScience Infrastructure, NZ
 - James Lin, Shanghai Jiao Tong University, China
 - Kenton McHenry, University of Illinois at Urbana-Champaign, USA
 - Lauren Milechin, Massachusetts Institute of Technology, USA
