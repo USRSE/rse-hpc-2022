@@ -27,5 +27,6 @@ permalink: /committee/
 - James Lin, Shanghai Jiao Tong University, China
 - Kenton McHenry, University of Illinois at Urbana-Champaign, USA
 - Lauren Milechin, Massachusetts Institute of Technology, USA
+- Mahmood Mohammadi Shad, Harvard University, USA
 - Karen Tomko, Ohio Supercomputer Center, USA
 - Ben van Werkhoven, eScience Center, Netherlands
