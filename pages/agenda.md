@@ -9,14 +9,14 @@ permalink: /agenda/
 Sunday, November 13, 2022
 
 - 1:30 pm Session 1
-    - 5 min: Introduction and overview
-    - 35 min: Main speakers / Q&A
-    - 50 min: Panel discussion
+    - 10 min:  Introduction and overview
+    - 50 min:  Featured Talks:  Growth of RSE Groups at HPC Centers
+    - 30 min:  Lightning talks 1
 - 3:00 pm Break
 - 3:30 pm Session 2
-    - 30 min: Lightning talks / Q&A
-    - 55 min: Breakout group discussions
-    - 5 min: Wrap-up
+    - 20 min:  Lightning talks 2
+    - 60 min:  Panel:  How Do RSEs and HPC Centers Fit Together?
+    - 10 min:  Wrap-up
 - 5:00 pm End
 
 [Link to workshop on SC22 website](https://sc22.supercomputing.org/presentation/?id=wksp132&sess=sess130)
