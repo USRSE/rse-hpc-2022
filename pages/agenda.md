@@ -11,6 +11,8 @@ Sunday, November 13, 2022
 - 1:30 pm Session 1
     - 10 min:  Introduction and overview
     - 50 min:  Featured Talks:  Growth of RSE Groups at HPC Centers
+        - Andy Turner (Edinburgh Parallel Computing Centre)
+        - Kelly Rowland (Lawrence Berkeley National Laboratory)
     - 30 min:  Lightning talks 1
         - _UNIVERSE-HPC: Supporting the training and career development of RSEs_,
         Weronika Filinger (Edinburgh Parallel Computing Centre)
