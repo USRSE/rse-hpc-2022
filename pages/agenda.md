@@ -28,6 +28,10 @@ Sunday, November 13, 2022
         - _Reflections on RSE role's challenges at the early career stage_,
         Dmitry Nikolaenko (Durham University)
     - 60 min:  Panel:  How Do RSEs and HPC Centers Fit Together?
+        - Frank Würthwein, San Diego Supercomputer Center
+        - Carol Song, Purdue University
+        - René Caspart, Karlsruhe Institute of Technology
+        - Addi Thakur Malviya, Oak Ridge National Laboratory
     - 10 min:  Wrap-up
 - 5:00 pm End
 
