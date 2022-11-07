@@ -32,7 +32,7 @@ Sunday, November 13, 2022
         - Carol Song, Purdue University
         - René Caspart, Karlsruhe Institute of Technology
         - Addi Thakur Malviya, Oak Ridge National Laboratory
-        - Jamie Quinn, University College London
+        - Mosè Giordano, University College London
     - 10 min:  Wrap-up
 - 5:00 pm End
 
