@@ -32,7 +32,7 @@ Sunday, November 13, 2022
         - Carol Song, Purdue University ([slides](https://docs.google.com/presentation/d/1jzcyIU_b6g3aI-73rP4VSWa2JfWChfMT/))
         - René Caspart, Karlsruhe Institute of Technology ([slides](https://drive.google.com/file/d/1WyMrSIYQcx_C00g_KG2s14pJNkpX4Wjr/))
         - Addi Thakur Malviya, Oak Ridge National Laboratory ([slides](https://docs.google.com/presentation/d/1IZxF9sZ-D9m-ljfH4CTa1xQnxjBRhHte/))
-        - Mosè Giordano, University College London ([slides](https://docs.google.com/presentation/d/1IZxF9sZ-D9m-ljfH4CTa1xQnxjBRhHte/))
+        - Mosè Giordano, University College London ([slides](https://docs.google.com/presentation/d/1Z-hE1qGmzZnSVYkbkhEBV2sLwuJR4Z1l/))
     - 10 min:  Wrap-up ([slides](https://docs.google.com/presentation/d/1sUWxWaqGdMww3CWtc3n6iEiy44fjt_tz/))
 - 5:00 pm End
 
