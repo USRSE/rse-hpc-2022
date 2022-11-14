@@ -9,9 +9,9 @@ permalink: /agenda/
 Sunday, November 13, 2022
 
 - 1:30 pm Session 1
-    - 10 min:  Introduction and overview
+    - 10 min:  Introduction and overview ([slides](https://docs.google.com/presentation/d/1JfBGbNYqiy0IoLwLGeCfU59uzJuTLXUG/))
     - 50 min:  Featured Talks:  Growth of RSE Groups at HPC Centers
-        - William Lucas and Eleanor Broadway (Edinburgh Parallel Computing Centre)
+        - William Lucas and Eleanor Broadway (Edinburgh Parallel Computing Centre) ([slides](https://drive.google.com/file/d/1S4Iemf9NOajfFw0sSEUuRLpHBkKlsR7m/))
         - Kelly Rowland (Lawrence Berkeley National Laboratory)
     - 30 min:  Lightning talks 1
         - _UNIVERSE-HPC: Supporting the training and career development of RSEs_,
