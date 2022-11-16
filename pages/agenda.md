@@ -17,7 +17,7 @@ Sunday, November 13, 2022
         - _UNIVERSE-HPC: Supporting the training and career development of RSEs_,
         Weronika Filinger (Edinburgh Parallel Computing Centre) ([slides](https://drive.google.com/file/d/1fjHo96wkEvKP1DKrjIm2kn4Egx-go0r0/))
         - _The Science Gateway Community Institute's Consulting Services Program: Lessons for Research Software Engineering Organizations_,
-        Marlon Pierce (Indiana University) ([slides](https://drive.google.com/file/d/1H1YzHnSWZr0cfoho3lwW68X0ed38I-gr/))
+        Marlon Pierce (Indiana University) ([slides](https://docs.google.com/presentation/d/18IgtUB-o1NBmxCv221Xg67E0Eaf-IQc1/))
         - _A Research Software Engineering Development Path for Scientific Applications in Oil and Gas_,
         Emilio Justiniano Carcamo Troconis (Industrial University of Santander, Colombia) ([slides](https://docs.google.com/presentation/d/1_7j_ZD48aiNjlQr-79ApNyIJqDRrfJps/))
 - 3:00 pm Break
